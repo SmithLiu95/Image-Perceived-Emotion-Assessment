@@ -19,7 +19,7 @@ Note that both the MSE and RMSE are calculated in the normalized score, i.e., th
 
 Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
 
-# ToDo list
+# TODO
 
 Add Discrete Emotion Classification for Images
 
