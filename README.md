@@ -12,8 +12,8 @@ The performance of the baseline is as follows
 
 | Model    | Dataset  | MSE     | RMSE     |
 | -------- | -------- | ------- | -------- |
-| Resnet50 | IAPS     | 0.01742 | 0.131648 |
-| Resnet50 | CGNA [2] |         | 0.142139 |
+| Resnet50 | IAPS [3] | 0.01742 | 0.131648 |
+| Resnet50 | CGNA [2] | 0.02069 | 0.142939 |
 
 Note that both the MSE and RMSE are calculated based on the normalized score, i.e., the range of scores is [0,1].
 
@@ -30,3 +30,5 @@ Add Models for Videos
 [1] Zhao, Sicheng, et al. "Affective Computing for Large-scale Heterogeneous Multimedia Data: A Survey." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.3s (2019): 1-32.
 
 [2] Kim, Hye-Rin, et al. "Building emotional machines: Recognizing image emotions through deep neural networks." IEEE Transactions on Multimedia 20.11 (2018): 2980-2992.
+
+[3] Lang, Peter J., Margaret M. Bradley, and Bruce N. Cuthbert. "International affective picture system (IAPS): Technical manual and affective ratings." *NIMH Center for the Study of Emotion and Attention* 1 (1997): 39-58
