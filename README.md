@@ -6,7 +6,7 @@ This repository includes baselines of the perceived emotion estimation. The perc
 
 ## Continuous Emotion Prediction for Image
 
-Emotions can be described by arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values
+Emotions can be described by arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values.
 
 The performance of the baseline is as follows
 
@@ -17,13 +17,13 @@ The performance of the baseline is as follows
 
 Note that both the MSE and RMSE are calculated based on the normalized score, i.e., the range of scores is [0,1].
 
-Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
+Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG).
 
 ## TODO
 
-Add Discrete Emotion Classification for Images
+Add Discrete Emotion Classification for Images;
 
-Add Models for Videos
+Add Models for Videos;
 
 ## Reference
 
