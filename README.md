@@ -15,7 +15,7 @@ The performance of the baseline is as follows
 | Resnet50 | IAPS     | 0.01742 | 0.131648 |
 | Resnet50 | CGNA [2] |         | 0.142139 |
 
-Note that both the MSE and RMSE are calculated in the normalized score, i.e., the range of scores is [0,1].
+Note that both the MSE and RMSE are calculated based on the normalized score, i.e., the range of scores is [0,1].
 
 Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
 
