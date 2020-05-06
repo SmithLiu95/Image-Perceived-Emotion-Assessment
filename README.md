@@ -1,10 +1,10 @@
-# Perceived-Emotions-Baseline
+# Baseline Models of Perceived Emotions Recognition
 
 This repository includes baselines of the perceived emotion estimation. The perceived emotion estimation is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by visual contents.
 
 **We welcome contributes! Feel free to submit pull requests!**
 
-# Continuous Emotion Prediction for Image
+## Continuous Emotion Prediction for Image
 
 Emotions can be described by arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values
 
@@ -19,13 +19,13 @@ Note that both the MSE and RMSE are calculated based on the normalized score, i.
 
 Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
 
-# TODO
+## TODO
 
 Add Discrete Emotion Classification for Images
 
 Add Models for Videos
 
-# Reference
+## Reference
 
 [1] Zhao, Sicheng, et al. "Affective Computing for Large-scale Heterogeneous Multimedia Data: A Survey." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.3s (2019): 1-32.
 
