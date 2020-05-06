@@ -16,8 +16,10 @@ Note that both the MSE and RMSE are calculated in the normalized score, i.e., th
 
 # TO-DO list
 Add Discrete Emotion Classification for Images
+
 Add Models for Videos
 
 # Reference
 [1] Zhao, Sicheng, et al. "Affective Computing for Large-scale Heterogeneous Multimedia Data: A Survey." ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.3s (2019): 1-32.
+
 [2] Kim, Hye-Rin, et al. "Building emotional machines: Recognizing image emotions through deep neural networks." IEEE Transactions on Multimedia 20.11 (2018): 2980-2992.
