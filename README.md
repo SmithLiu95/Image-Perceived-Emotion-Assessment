@@ -6,7 +6,7 @@ This repository includes baselines of the perceived emotion estimation. The perc
 
 # Continuous Emotion Prediction for Image
 
-Emotions can be described using 2 values, arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values
+Emotions can be described by arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values
 
 The performance of the baseline is as follows
 
