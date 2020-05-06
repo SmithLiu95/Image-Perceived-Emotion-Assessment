@@ -2,7 +2,7 @@
 
 This repository includes baselines of the perceived emotion estimation. The perceived emotion estimation is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by visual contents.
 
-**We welcome contributes! Feel Free to Submit Pull Requests!**
+**We welcome contributes! Feel free to submit pull requests!**
 
 # Continuous Emotion Prediction for Image
 
