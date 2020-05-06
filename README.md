@@ -1,6 +1,8 @@
 # Perceived-Emotions-Baseline
 
-This repository includes baseline of the perceived emotion eastimation. It is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by a visual content.
+This repository includes strong baselines of the perceived emotion eastimation. The perceived emotion eastimation is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by a visual content.
+
+# We welcome contributes! Feel Free to Submit Pull Requests!
 
 # Continious Emotion Prediction for Image
 
@@ -13,6 +15,8 @@ The performance of the baseline is as follows
 | Resnet50 | CGNA [2] |         | 0.142139 |
 
 Note that both the MSE and RMSE are calculated in the normalized score, i.e., the range of scores are [0,1].
+
+Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
 
 # TO-DO list
 Add Discrete Emotion Classification for Images
