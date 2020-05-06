@@ -1,12 +1,12 @@
 # Perceived-Emotions-Baseline
 
-This repository includes strong baselines of the perceived emotion eastimation. The perceived emotion eastimation is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by a visual content.
+This repository includes baselines of the perceived emotion estimation. The perceived emotion estimation is also known as Affective Computing [1], which is to estimate the emotions that are expected to be evoked in viewers by visual contents.
 
 **We welcome contributes! Feel Free to Submit Pull Requests!**
 
-# Continious Emotion Prediction for Image
+# Continuous Emotion Prediction for Image
 
-Emotions can be described using 2 values, arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominence) (VAD) to describe. Continious Emotion Prediction is to estimate the VA or VAD values
+Emotions can be described using 2 values, arousal and valence (VA). Some papers also use 3 values (arousal, valence and dominance) (VAD) to describe. Continuous Emotion Prediction is to estimate the VA or VAD values
 
 The performance of the baseline is as follows
 
@@ -15,7 +15,7 @@ The performance of the baseline is as follows
 | Resnet50 | IAPS     | 0.01742 | 0.131648 |
 | Resnet50 | CGNA [2] |         | 0.142139 |
 
-Note that both the MSE and RMSE are calculated in the normalized score, i.e., the range of scores are [0,1].
+Note that both the MSE and RMSE are calculated in the normalized score, i.e., the range of scores is [0,1].
 
 Pretrained models can be downloaded in [this link](https://entuedu-my.sharepoint.com/:f:/g/personal/chang015_e_ntu_edu_sg/EtXLEitn_ytFvs4KaSZokS0Bbfk5TA9Um6KINHsKzqDFyA?e=SfGhKG)
 
