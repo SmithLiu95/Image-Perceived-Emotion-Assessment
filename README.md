@@ -10,10 +10,10 @@ Emotions can be described by arousal and valence (VA). Some papers also use 3 va
 
 The performance of the baseline is as follows
 
-| Model    | Dataset  | MSE     | RMSE     |
-| -------- | -------- | ------- | -------- |
-| Resnet50 | IAPS [3] | 0.01742 | 0.131648 |
-| Resnet50 | CGNA [2] | 0.02069 | 0.142939 |
+| Model    | Dataset  | MSE     |
+| -------- | -------- | ------- |
+| Resnet50 | IAPS [3] | 0.01742 |
+| Resnet50 | CGNA [2] | 0.02069 |
 
 Note that both the MSE and RMSE are calculated based on the normalized score, i.e., the range of scores is [0,1].
 
